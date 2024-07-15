@@ -1,7 +1,7 @@
 # Password-Generator
 ## Random Password Generator using Python
 
-## Project discription - Develop an advanced password generator with a graphical user interface (GUI) using Tkinter or PyQt. Enhance it by including options for password complexity, adherence to security rules, and clipboard integration for easy copying.
+### Project discription - Develop an advanced password generator with a graphical user interface (GUI) using Tkinter or PyQt. Enhance it by including options for password complexity, adherence to security rules, and clipboard integration for easy copying.
 
 ### Key Concepts:
 
@@ -12,3 +12,5 @@ GUI Design (for Advanced): Create an intuitive and user-friendly interface for p
 Security Rules (for Advanced): Implement rules for generating strong, secure passwords.
 Clipboard Integration (for Advanced): Allow users to copy generated passwords to the clipboard for convenience.
 Customization (for Advanced): Enable users to customize password generation further, e.g., excluding specific characters.
+
+### Project Demonstration Link -
