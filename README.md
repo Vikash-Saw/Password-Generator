@@ -1,7 +1,7 @@
 # Password-Generator
-## Random Password Generator using Python
+## Random Password Generator using Python.
 
-### Project discription - It's an advanced password generator with a graphical user interface (GUI) using Tkinter. Enhance it by including options for password complexity, adherence to security rules, and clipboard integration for easy copying.
+### Project description - It's an advanced password generator with a graphical user interface (GUI) using Tkinter. Enhance it by including options for password complexity, adherence to security rules, and clipboard integration for easy copying.
 
 ### Key Concepts:
 
@@ -13,4 +13,4 @@
 #### 6.Clipboard Integration - Allow users to copy generated passwords to the clipboard for convenience.
 #### 7.Customization - Enable users to customize password generation further, e.g., excluding specific characters.
 
-### Project Demonstration Link -
+### Project Demonstration Link - **https://www.linkedin.com/posts/vikash-kr-saw_oasisinfobyte-oasisinfobytefamily-internship-activity-7218956764191293441-Gv1y?utm_source=share&utm_medium=member_desktop**
